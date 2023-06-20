@@ -84,7 +84,5 @@
   </ul>
 </body>
 
-</html>
-
 ### Go back to [Personal Site](https://jignacioss.github.io/)
 ### Go to my [CV](https://jignacioss.github.io/cv)
