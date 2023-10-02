@@ -1,7 +1,11 @@
 <body>
   <h1>Publications</h1>
   <ul>
-    <li>Maldonado, C., Tromben, V., Cea, Catalina & Suárez Sarrazin, J. I. (2022) Panorama de la Cohesión Social de
+    <li> Espíndola, E. & Suárez, J. I. (2022) Automatización del trabajo y desafíos para la inclusión laboral en América Latina: Estimaciones de riesgo mediante aprendizaje automático ajustadas a la región. 
+      <a href="https://www.cepal.org/es/publicaciones/68574-automatizacion-trabajo-desafios-la-inclusion-laboral-america-latina-estimaciones">Link</a>.
+    </li>
+    <li>
+      Maldonado, C., Tromben, V., Cea, Catalina & Suárez Sarrazin, J. I. (2022) Panorama de la Cohesión Social de
       América Latina y el Caribe. Publicación de las Naciones Unidas.
       <a href="https://www.cepal.org/es/publicaciones/47667-panorama-la-cohesion-social-america-latina-caribe">Link</a>.
     </li>
