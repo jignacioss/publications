@@ -1,7 +1,7 @@
 <body>
   <h1>Publications</h1>
   <ul>
-    <li> Espíndola, E. & Suárez, J. I. (2022) Automatización del trabajo y desafíos para la inclusión laboral en América Latina: Estimaciones de riesgo mediante aprendizaje automático ajustadas a la región. 
+    <li> Espíndola, E. & Suárez, J. I. (2023) Automatización del trabajo y desafíos para la inclusión laboral en América Latina: Estimaciones de riesgo mediante aprendizaje automático ajustadas a la región. 
       <a href="https://www.cepal.org/es/publicaciones/68574-automatizacion-trabajo-desafios-la-inclusion-laboral-america-latina-estimaciones">Link</a>.
     </li>
     <li>
