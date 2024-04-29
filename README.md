@@ -1,9 +1,9 @@
 <body>
   <h1>Publications</h1>
   <ul>
-    <li> Espíndola, E. & Suárez, J. I. (2023) Automatización del trabajo y desafíos para la inclusión laboral en América Latina: Estimaciones de riesgo mediante aprendizaje automático ajustadas a la región. S 
-         Serie Políticas Sociales, Nº 245 (LC/TS.2023/121), Santiago, Comisión Económica para América Latina y el Caribe (CEPAL), 2023. 
-      <a href="https://www.cepal.org/es/publicaciones/68574-automatizacion-trabajo-desafios-la-inclusion-laboral-america-latina-estimaciones">Link</a>.
+    <li> Espíndola, E. & Suárez, J. I. (2024) Labour automation and challenges in labour inclusion in Latin America: regionally adjusted risk estimates based on machine learning. Social Policy, Nº 245 (LC/TS.2023/121), 
+         Santiago, United Nations Economic Commission for Latin America and the Caribbean (ECLAC), 2024. 
+      <a href="https://www.cepal.org/en/publications/69088-labour-automation-and-challenges-labour-inclusion-latin-america-regionally">Link</a>.
     </li>
     <li> Espíndola, E., & Suárez, J. I. (2023). Automatización laboral y estratificación en América Latina. In R. Martínez (coord.), Automatización e inclusión laboral en América Latina: impactos potenciales, 
       vulnerabilidades y propuestas de política pública (LC/TS.2023/112). Comisión Económica para América Latina y el Caribe (CEPAL).
