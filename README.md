@@ -41,6 +41,16 @@
   <h1>Collaborations</h1>
   <ul>
     <li>
+      Gontero, S. & Araneda, E. (2024) Áreas de acción para prevenir y reducir las desigualdades en el mundo del trabajo en Chile. ILO, Santiago.
+      <a href="https://www.ilo.org/es/publications/areas-de-accion-para-prevenir-y-reducir-las-desigualdades-en-el-mundo-del">Link</a>.
+    </li>
+    <li>
+      OECD (2024) Cultiver l’excellence dans l’apprentissage et le développement professionnel des personnels de l’éducation :
+      Renforcer l’impact des écoles académiques de la formation continue en France, Éditions OCDE, Paris,
+      https://doi.org/10.1787/cd020f15-fr.
+      <a href="https://www.oecd.org/fr/publications/cultiver-l-excellence-dans-l-apprentissage-et-le-developpement-professionnel-des-personnels-de-l-education_cd020f15-fr.html">Link</a>.
+    </li>
+    <li>
       J. C. Castillo, V. Espinoza y E. Barozet (2022) Cohesión social en Chile en tiempos de cambio: indicadores,
       perfiles y factores asociados, Documentos de Proyectos (LC/TS.2022/3), Santiago, Comisión Económica para
       América Latina y el Caribe (CEPAL)/Centro de Estudios de Conflicto y Cohesión Social (COES), 2022.
