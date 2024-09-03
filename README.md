@@ -1,7 +1,7 @@
 <body>
   <h1>Publications</h1>
   <ul>
-    <li> Guerra, C., Mallon, D., Davies, D., & Suárez Sarrazin, J. (2024). Development co-operation stepping up its role in ending poverty and reducing inequalities. In OECD (Ed.), Development Co-operation Report 2024: Tackling Poverty and Inequalities through the Green Transition.
+    <li> Guerra, C., Mallon, D., Davies, I., & Suárez Sarrazin, J. (2024). Development co-operation stepping up its role in ending poverty and reducing inequalities. In OECD (Ed.), Development Co-operation Report 2024: Tackling Poverty and Inequalities through the Green Transition.
       <a href="https://www.oecd.org/en/publications/development-co-operation-report-2024_357b63f7-en/full-report/component-20.html#chapter-d1e8825-4ba795adf3">Link</a>.
     </li>
     <li> Espíndola, E. & Suárez, J. I. (2024) Labour automation and challenges in labour inclusion in Latin America: regionally adjusted risk estimates based on machine learning. Social Policy, Nº 245 (LC/TS.2023/121), 
