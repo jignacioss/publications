@@ -46,9 +46,8 @@
     </li>
     <li>
       OECD (2024) Cultiver l’excellence dans l’apprentissage et le développement professionnel des personnels de l’éducation :
-      Renforcer l’impact des écoles académiques de la formation continue en France, Éditions OCDE, Paris,
-      https://doi.org/10.1787/cd020f15-fr.
-      <a href="https://www.oecd.org/fr/publications/cultiver-l-excellence-dans-l-apprentissage-et-le-developpement-professionnel-des-personnels-de-l-education_cd020f15-fr.html">Link</a>.
+      Renforcer l’impact des écoles académiques de la formation continue en France, Éditions OCDE, Paris.
+      <a href="https://doi.org/10.1787/cd020f15-fr">Link</a>.
     </li>
     <li>
       J. C. Castillo, V. Espinoza y E. Barozet (2022) Cohesión social en Chile en tiempos de cambio: indicadores,
