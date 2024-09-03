@@ -1,6 +1,9 @@
 <body>
   <h1>Publications</h1>
   <ul>
+    <li> Guerra, C., Mallon, D., Davies, D., & Suárez Sarrazin, J. (2024). Development co-operation stepping up its role in ending poverty and reducing inequalities. In OECD (Ed.), Development Co-operation Report 2024: Tackling Poverty and Inequalities through the Green Transition.
+      <a href="https://www.oecd.org/en/publications/development-co-operation-report-2024_357b63f7-en/full-report/component-20.html#chapter-d1e8825-4ba795adf3">Link</a>.
+    </li>
     <li> Espíndola, E. & Suárez, J. I. (2024) Labour automation and challenges in labour inclusion in Latin America: regionally adjusted risk estimates based on machine learning. Social Policy, Nº 245 (LC/TS.2023/121), 
          Santiago, United Nations Economic Commission for Latin America and the Caribbean (ECLAC), 2024. 
       <a href="https://www.cepal.org/en/publications/69088-labour-automation-and-challenges-labour-inclusion-latin-america-regionally">Link</a>.
@@ -40,6 +43,10 @@
 
   <h1>Collaborations</h1>
   <ul>
+    <li>
+      OECD (2024), Development Co-operation Report 2024: Tackling Poverty and Inequalities through the Green Transition, OECD Publishing, Paris.
+      <a href="https://doi.org/10.1787/357b63f7-en">Link</a>.
+    </li>
     <li>
       Gontero, S. & Araneda, E. (2024) Áreas de acción para prevenir y reducir las desigualdades en el mundo del trabajo en Chile. ILO, Santiago.
       <a href="https://www.ilo.org/es/publications/areas-de-accion-para-prevenir-y-reducir-las-desigualdades-en-el-mundo-del">Link</a>.
